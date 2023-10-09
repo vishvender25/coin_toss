@@ -15,11 +15,10 @@ h1 , h2{
 .container{
     display: flex;
     height: 40vh;
-    flex-shrink:1;
     align-items: center;
     justify-content: center;
-/*     width: 30%;
-    margin-left: 35%; */
+    width: 30%;
+    margin-left: 35%;
     background-color: #ADC4CE;
     
 }
