@@ -1,0 +1,24 @@
+body{
+    background-color: #F1F0E8;
+}
+
+h1 , h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #96B6C5;
+    font-size: xx-large;
+}
+#coin{
+  width: 50%;
+  height: 50%;
+}
+.container{
+    display: flex;
+    height: 40vh;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    margin-left: 35%;
+    background-color: #ADC4CE;
+    
+}
