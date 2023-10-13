@@ -1,24 +1,52 @@
-body{
-    background-color: #F1F0E8;
+#heading{
+   font-size: 50px;
+   color: #8EA7E9;
 }
+body{
+    background-color: #DDE6ED;
+}
+#submit-btn{
+    width: 20%;
+    height: 40px;
+    margin-left: 40%;
+    margin-top: 20px;
 
+}
 h1 , h2{
     text-align: center;
     font-family: 'Lobster', cursive;
-    color: #96B6C5;
+    color: #8EA7E9;
     font-size: xx-large;
 }
-#coin{
+.top > *{
+    font-family: 'Lobster', cursive;
+    color: #8EA7E9;
+    font-size: large;
+}
+.coin{
   width: 50%;
   height: 50%;
 }
 .container{
-    display: flex;
-    height: 40vh;
-    align-items: center;
-    justify-content: center;
-    width: 40%;
-    margin-left: 30%;
-    background-color: #ADC4CE;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
     
+}
+.top{
+    width: 50%;
+    display: inline-block;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.container > div{
+    background-color: whiteF;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+#user-input{
+    color: #8EA7E9;
 }
